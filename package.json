@@ -18,6 +18,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
+    "saber": "^0.10.4",
     "vue-compile": "^0.6.0"
   }
 }
