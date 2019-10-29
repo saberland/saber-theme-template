@@ -1,0 +1,23 @@
+{
+  "name": "saber-theme-template",
+  "description": "My awesome Saber theme",
+  "version": "0.0.0",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vue-compile src -o dist",
+    "demo": "saber demo",
+    "build:demo": "saber build demo"
+  },
+  "keywords": [
+    "saber",
+    "theme",
+    "vue",
+    "static-site"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vue-compile": "^0.6.0"
+  }
+}
